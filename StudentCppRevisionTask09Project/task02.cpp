@@ -29,11 +29,8 @@
 
 //task02
 
-int number(int a) {
-
-	
+bool task02(int number) {
 
 
-
-	return true;
+	return false;
 }

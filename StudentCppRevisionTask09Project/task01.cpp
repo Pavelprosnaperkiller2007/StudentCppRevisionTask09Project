@@ -26,4 +26,16 @@
 
 //task01
 
-int task01(int )
+int task01(int number) {
+
+	if (number <= 1) {
+		return 0;
+	}
+
+	for (int i = 2; i <= number; i++) {
+		if (number % i == 0) {
+			return i;
+		}
+	}
+	return 0;
+}

@@ -21,6 +21,11 @@
 *
 *	[ input 4]: -15
 *	[output 4]: 2
-*
+*/
 
 //task05
+
+int task05(long number) {
+
+	return 0;
+}

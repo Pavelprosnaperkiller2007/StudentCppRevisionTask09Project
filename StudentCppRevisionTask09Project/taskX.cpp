@@ -31,3 +31,8 @@
 */
 
 //taskX
+
+bool taskX(long number) {
+
+	return false;
+}

@@ -24,10 +24,6 @@
 //task03
 
 
-int number(int N) {
-
-	string msg;
-
-
-	return;
+string task03(int number) {
+	return "";
 }
